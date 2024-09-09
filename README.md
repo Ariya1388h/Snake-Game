@@ -1,2 +1,2 @@
 # Snake
-Classics snake game with new look in python.
+Classics snake game with PyGame Python
